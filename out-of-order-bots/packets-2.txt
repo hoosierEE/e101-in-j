@@ -1,0 +1,66 @@
+3487, 0, 10, REPORT FROM: PatrolBot7821
+3487, 8, 10,
+6791, 2, 10, Location: Pizza Store
+6791, 10, 10, END MESSAGE
+9765, 2, 2, END MESSAGE
+7788, 1, 2, Sensor Value: 60
+3487, 10, 10, END MESSAGE
+1234, 1, 2, Sensor Value: 30
+2443, 1, 2, Sensor Value: 35
+6791, 4, 10, Conditions: Windy
+1111, 1, 2, Sensor Value: 40
+3487, 6, 10, Notes: Nothing unusual
+6655, 0, 2, MSG FROM: PatrolBot7821
+1234, 0, 2, MSG FROM: PatrolBot7821
+2123, 2, 2, END MESSAGE
+4678, 3, 10, Weather: Normal
+3487, 1, 10, Reporting from IU...
+5473, 2, 2, END MESSAGE
+2443, 0, 2, MSG FROM: DroneBot1123
+1123, 2, 2, END MESSAGE
+1234, 2, 2, END MESSAGE
+6791, 8, 10,
+4678, 6, 10, Notes: Poor Connection to
+6791, 7, 10, recalibration.
+3344, 0, 2, MSG FROM: EcoBot7145
+4678, 9, 10, BATTERY: 87%
+4678, 2, 10, Location: Union Building
+9765, 0, 2, MSG FROM: EcoBot7145
+6791, 3, 10, Weather: Rainy
+6655, 2, 2, END MESSAGE
+3487, 9, 10, BATTERY: 11%
+6791, 9, 10, BATTERY: 75%
+4678, 10, 10, END MESSAGE
+3344, 2, 2, END MESSAGE
+4678, 8, 10,
+2443, 2, 2, END MESSAGE
+2123, 1, 2, Sensor Value: 15
+2123, 0, 2, MSG FROM: DroneBot1123
+4678, 0, 10, REPORT FROM: EcoBot7145
+6791, 6, 10, Notes: Left motor needs
+6791, 1, 10, Reporting from Purdue..
+3487, 5, 10, Date: 11/13/2017
+1123, 0, 2, MSG FROM: DroneBot1123
+4678, 4, 10, Conditions: Dry
+6791, 0, 10, REPORT FROM: DroneBot1123
+5473, 1, 2, Sensor Value: 32
+9765, 1, 2, Sensor Value: 40
+5473, 0, 2, MSG FROM: DroneBot1123
+4678, 1, 10, Reporting from IU...
+7788, 2, 2, END MESSAGE
+2327, 1, 2, Sensor Value: 30
+3344, 1, 2, Sensor Value: 80
+7788, 0, 2, MSG FROM: PatrolBot7821
+2327, 0, 2, MSG FROM: EcoBot7145
+3487, 3, 10, Weather: Normal
+3487, 7, 10, to report.
+1123, 1, 2, Sensor Value: 30
+1111, 0, 2, MSG FROM: PatrolBot7821
+3487, 2, 10, Location: Front Steps of Geology Building
+2327, 2, 2, END MESSAGE
+6655, 1, 2, Sensor Value: 80
+4678, 5, 10, Date: 11/13/2017
+1111, 2, 2, END MESSAGE
+3487, 4, 10, Conditions: Wet
+6791, 5, 10, Date: 11/12/2017
+4678, 7, 10, host servers.
